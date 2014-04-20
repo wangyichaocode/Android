@@ -1,0 +1,4 @@
+Android
+=======
+
+resource code test
